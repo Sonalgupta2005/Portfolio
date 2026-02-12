@@ -10,7 +10,7 @@ export const Bio = {
     "KIET'27 CSE(AI) | MERN Stack Developer | AWS Certified Cloud Practitioner | DSA Enthusiast | C++ | Open Source Contributor",
   github: "https://github.com/rishavchanda",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1fhGyz8lPnlhyvDHvPIad_aj1Tr_CjUPf/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
   twitter: "https://twitter.com/RishavChanda",
   insta: "https://www.instagram.com/rishav_chanda/",
