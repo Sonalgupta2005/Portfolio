@@ -1,0 +1,56 @@
+
+.slider-container{
+    display: block;
+    gap: 2rem;
+    width:90%
+
+}
+.cert-card{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    background-color: rgb(240, 240, 240);
+    padding: 1.8rem;
+    /* border-radius: 8px; */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    /* margin-left: 1rem; */
+}
+.cert-title{
+    font-size: 1rem;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 550;
+    color: #000;
+    margin-bottom: 0.5rem;
+}
+.slick-slide > div {
+  display: flex;
+  justify-content: center;
+}
+.cert-image {
+  height: 14rem;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+}
+.cert-issuer{
+    font-size: 1rem;
+    font-family: "Times New Roman", Times, serif;
+    font-weight: 500;
+    color: #333;
+}
+.cert-desc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    margin-bottom: 3rem;
+}
