@@ -8,6 +8,7 @@ function Projects() {
     {
       title: "Property Listing Website",
       desc: "A full-stack web application that allows users to browse, search, and filter property listings based on various criteria such as location, and property type. Users can view detailed information about each property, including images, descriptions, and contact details for inquiries.", 
+      src: "./Wanderlust.mp4",
       liveUrl: "https://wanderlust-wd08.onrender.com/",
       githubUrl: "https://github.com/Sonalgupta2005/Wanderlust",
     },
