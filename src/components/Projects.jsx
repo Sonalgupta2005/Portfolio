@@ -7,25 +7,17 @@ function Projects() {
   const projects = [
     {
       title: "Property Listing Website",
-      desc: "A web platform to book rooms and homes for short and long stays.",
-      src: "./Wanderlust.mp4",
+      desc: "A full-stack web application that allows users to browse, search, and filter property listings based on various criteria such as location, and property type. Users can view detailed information about each property, including images, descriptions, and contact details for inquiries.", 
       liveUrl: "https://wanderlust-wd08.onrender.com/",
       githubUrl: "https://github.com/Sonalgupta2005/Wanderlust",
     },
     {
-      title: "Modern Portfolio Website",
-      desc: "A modern portfolio with smooth animations and clean UI.",
-      src: "./videos/project2.mp4",
-      liveUrl: "https://your-portfolio.com",
-      githubUrl: "https://github.com/yourname/portfolio",
-    },
-    {
-      title: "Movie Landing Page",
-      desc: "A cinematic landing page showcasing movie highlights.",
-      src: "./videos/project3.mp4",
-      liveUrl: "https://movie-landing.com",
-      githubUrl: "https://github.com/yourname/movie-landing",
-    },
+      title: "Service Booking Platform",
+      desc: "A role-based home service marketplace and management platform that connects homeowners with verified local service providers for on demand household services such as plumbing, electrical work, and maintenance.",
+      src: "./Quickfixhub_video2.mp4",
+      liveUrl: "https://fixithub-liard.vercel.app/",
+      githubUrl: "https://github.com/Sonalgupta2005/FixitHub",
+    }
   ];
 
   return (
